@@ -1,0 +1,20 @@
+Cue	Target	Answer	Shuffle	Shuffle2	Stimuli Notes
+Dog	Ol' Yeller	Ol' Yeller	Dogs	House	doesn't matter
+Dog	Beethoven	Beethoven	Dogs	House	doesn't matter
+Dog	Lassie	Lassie	Dogs	House	doesn't matter
+Cat	Garfield	Garfield	Cats	House	doesn't matter
+Cat	Felix	Felix	Cats	House	doesn't matter
+Cat	Scratchy	Scratchy	Cats	House	doesn't matter
+Mouse	Mickey	Mickey	Mice	House	doesn't matter
+Mouse	Itchy	Itchy	Mice	House	doesn't matter
+Mouse	Minnie	Minnie	Mice	House	doesn't matter
+Horse	Mr. Ed	Mr. Ed	Horses	Barn	doesn't matter
+Horse	Seabiscuit	Seabiscuit	Horses	Barn	doesn't matter
+Cow	Bessie	Bessie	Cows	Barn	doesn't matter
+Cow	Babe the Blue Ox	Babe the Blue Ox	Cows	Barn	doesn't matter
+Doctor	Who	Who	Doctors	off	doesn't matter
+Doctor	Dre	Dre	Doctors	off	doesn't matter
+Superhero	Batman	Batman	Heros	off	doesn't matter
+Superhero	Superman	Superman	Heros	off	doesn't matter
+Superhero	Hulk	Hulk	Heros	off	doesn't matter
+Superhero	Wolverine	Wolverine	Heros	off	doesn't matter

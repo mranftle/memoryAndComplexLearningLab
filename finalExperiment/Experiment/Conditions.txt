@@ -1,0 +1,5 @@
+Number	Stimuli	Procedure	Condition Description	Condition notes 
+1	Stimuli/FactStimuliWithAlternatives.txt	Procedure/StudyProcedure.txt	Study Facts w/alternatives	~
+2	Stimuli/RestudyFacts.txt	Procedure/StudyProcedure.txt	Study Facts w/o alternatives	~
+3	Stimuli/FreeResponseStimuli.txt	Procedure/FreeResponseProcedure.txt	Free Recall Test 	~
+4	Stimuli/FreeResponseStimuliWithMultipleChoice.txt	Procedure/FreeResponseProcedure.txt	Free Recall Multiple Choice Test 	~
