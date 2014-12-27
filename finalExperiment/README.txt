@@ -2,6 +2,8 @@ Collector
 A program for running experiments on the web
 Copyright 2012-2014 Mikey Garcia & Nate Kornell
 
+Modified by Matthew Ranftle for the Memory and Complex Learning Lab, Washington University Psychology Department. Experiments implemented test front-end control theories against later monitoring theories with regard to the sub-processes involved in memory encoding and retrieval. 
+
 FAQ
 What is Collector?
 	Collector is a program designed to run psychology experiments on the web.
@@ -78,6 +80,3 @@ Troubleshooting
 		2.  Clear your cache.  There are extensions for chrome (http://goo.gl/r961j) and firefox (http://goo.gl/r3Zky) that make this process very quick
 		3.  Are you sure you're editing the right experiment/folder?  The best way to test this is to rename index.php to missing.php then try to login to your experiment.  If you're editing the right folder then renaming index.php would break the login process.  If you can still login then you're editing the wrong folder / launching the wrong experiment.  Make sure to change missing.php back to index.php after you've found the correct folder.
 		
-		
-Collaborators/Thanks
-	Victor Sungkhasettee - figured out how to implement the Audio trial type
